@@ -15,7 +15,7 @@
 I'm a passionate developer building at the intersection of **AI/ML**, **Android**, and **Cloud** — with a focus on apps that genuinely help people. From mental health assessment tools and medical AI to serverless cloud pipelines and financial analytics, I love turning complex problems into clean, impactful software.
 
 - Currently working on **PSYVANA** — an AI-powered mental wellness platform (Android + Web)
-- Exploring **LLMs**, **computer vision**, and **voice-based ML**
+- Exploring **LLMs**, **computer vision**, and **AI Agents**
 - Always open to collaborating on meaningful, real-world projects
 
 ---
