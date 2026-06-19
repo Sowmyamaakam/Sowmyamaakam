@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sowmyamaakam&label=Profile+Views&color=a78bfa&style=flat" alt="Profile Views" />
 
 </div>
 
